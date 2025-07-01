@@ -595,7 +595,7 @@ const STLPointCloudHero = () => {
       
       {/* Text overlay with enhanced typography */}
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2">
-        <p className="text-white text-lg font-medium tracking-wider">point cloud</p>
+        <p className="text-white text-lg font-medium tracking-wider">Be back soon</p>
       </div>
     </div>
   );

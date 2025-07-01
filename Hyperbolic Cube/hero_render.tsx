@@ -206,7 +206,7 @@ const STLPointCloudHero = () => {
       
       {/* Simple text at bottom center */}
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2">
-        <p className="text-black text-lg font-medium">point cloud</p>
+        <p className="text-black text-lg font-medium">Be back soon</p>
       </div>
     </div>
   );
